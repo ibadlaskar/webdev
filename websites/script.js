@@ -1,3 +1,3 @@
-alert("dd")
+//alert("dd")
 
 console.log("hiiiiiiiiiiii");
