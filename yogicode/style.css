@@ -1,21 +1,11 @@
+li{
 
+  list-style: none;
+  
+
+}
 
 a{
-    background-color: rgb(242, 187, 21);
-    border-radius: 40px;
-    text-decoration: none;
-    color: aliceblue;
-
-
-   
-  text-align: center;
-    border-width: 3px;
-    border-color:black;
-   border-style: solid;
-
-
-
-
-
-padding: 5px;
+  
+  color: green;
 }
